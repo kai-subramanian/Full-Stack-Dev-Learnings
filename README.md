@@ -7,6 +7,3 @@ Tech stack includes the following
 - Python 
 - Flask
 - HTML
-- CSS
-- JS
-- MySQL DB
